@@ -1,0 +1,16 @@
+.editor-Container{
+    
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+}
+.editor-top{
+    background-color: black;
+    min-height: 50px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    width:100%;
+    color:white;
+    padding:10px;
+    text-align: center;
+}
